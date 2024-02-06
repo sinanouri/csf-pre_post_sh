@@ -8,8 +8,6 @@ Installation is quite straightforward:
 # git clone https://github.com/sinanouri/csf-pre_post_sh.git
 # cd csf-pre_post_sh
 # sh install.sh
-# cd csf-pre_post_sh
-# sh install.sh
 ```
 
 ## User Feedback
