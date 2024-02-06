@@ -5,7 +5,10 @@ Installation is quite straightforward:
 
 ```
 # cd /usr/local/src
+# git clone # cd /usr/local/src
 # git clone https://github.com/juliengk/csf-pre_post_sh.git
+# cd csf-pre_post_sh
+# sh install.sh
 # cd csf-pre_post_sh
 # sh install.sh
 ```
